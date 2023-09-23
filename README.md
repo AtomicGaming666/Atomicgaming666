@@ -42,3 +42,19 @@
 <img src="https://raw.githubusercontent.com/AtomicGaming666/AtomicGaming666/output/snake.svg" alt="Snake animation" />
 
 ###
+
+
+
+
+
+? **Welcome to UnderGroundRP!** ?
+Are you ready for a thrilling new adventure in the world of FiveM roleplay? Look no further!
+? Join us at UnderGroundRP, where we're carving our path in the RP universe. We might be fairly new, but our passion and commitment are boundless.
+? What We Offer:
+- ? An immersive roleplay experience.
+- ? A dedicated and active staff team, always ready to assist you.
+- ? Limitless creativity to explore endless possibilities.
+- ? A friendly and welcoming community.
+? Join our community today on Discord:
+[![Discord](https://img.shields.io/badge/Join%20Us%20on%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/QGJT9G2CD6)
+Embark on your RP journey with UnderGroundRP and let your imagination run wild! See you underground! ?
